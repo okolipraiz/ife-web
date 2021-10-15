@@ -23,7 +23,7 @@ img{
   position: relative;
   width: 100%;
   height: 100vh;
-  background: magenta !important;
+  background: rgb(182, 11, 182) !important;
   overflow: hidden;
 }
 
